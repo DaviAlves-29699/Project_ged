@@ -61,8 +61,8 @@ class CadastroDeDados:
         try:
             wait = WebDriverWait(self.navegador, 30)
             # credenciais de acesso
-            Email = 'davi.rodrigues@inec.org.br'
-            Key = 'Sk84ever*@'
+            Email = '************@inec.org.br'
+            Key = '*************'
             # espera os inputs da página carregarem para colocar os acessos.
             wait.until(EC.element_to_be_clickable((By.ID, "email"))).send_keys(Email)
             wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="frmLogin"]/input[2]'))).send_keys(Key)
