@@ -1,0 +1,1459 @@
+2025-11-21 09:02:31,850 :: INFO :: banco_dados.py :: 21 :: Conexï¿½o com o banco de dados realizada
+2025-11-21 09:05:14,952 :: INFO :: banco_dados.py :: 21 :: Conexï¿½o com o banco de dados realizada
+2025-11-21 09:13:54,060 :: INFO :: banco_dados.py :: 21 :: Conexï¿½o com o banco de dados realizada
+2025-11-21 09:13:54,401 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-21 09:13:54,402 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-21 09:13:55,454 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-21 09:13:56,267 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-21 09:13:56,737 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-21 09:13:57,815 :: INFO :: logger.py :: 11 :: WebDriver version 142.0.7444.175 selected
+2025-11-21 09:13:57,825 :: INFO :: logger.py :: 11 :: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+2025-11-21 09:13:57,826 :: INFO :: logger.py :: 11 :: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+2025-11-21 09:13:58,608 :: INFO :: logger.py :: 11 :: Driver downloading response is 200
+2025-11-21 09:13:59,761 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-21 09:14:00,327 :: INFO :: logger.py :: 11 :: Driver has been saved in cache [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175]
+2025-11-21 09:14:17,492 :: INFO :: captcha.py :: 21 :: Tratamento do OCR realizado
+2025-11-26 09:44:47,842 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 09:44:48,192 :: INFO :: automacao_web.py :: 30 :: Site On
+2025-11-26 09:44:48,192 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 09:44:51,491 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 09:44:52,278 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 09:44:52,766 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 09:44:53,910 :: INFO :: logger.py :: 11 :: WebDriver version 142.0.7444.175 selected
+2025-11-26 09:44:53,916 :: INFO :: logger.py :: 11 :: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+2025-11-26 09:44:53,916 :: INFO :: logger.py :: 11 :: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+2025-11-26 09:44:54,762 :: INFO :: logger.py :: 11 :: Driver downloading response is 200
+2025-11-26 09:44:56,056 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 09:44:56,661 :: INFO :: logger.py :: 11 :: Driver has been saved in cache [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175]
+2025-11-26 09:45:06,512 :: INFO :: captcha.py :: 21 :: Tratamento do OCR realizado
+2025-11-26 09:45:07,959 :: INFO :: automacao_web.py :: 74 :: Captcha validado com sucesso
+2025-11-26 09:45:20,772 :: ERROR :: automacao_web.py :: 117 :: Nï¿½o foi possivel encontrar um elemento web no processo de cadastro
+2025-11-26 09:45:20,854 :: INFO :: automacao_web.py :: 30 :: Site On
+2025-11-26 09:45:20,854 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 09:45:23,517 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 09:45:23,991 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 09:45:24,458 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 09:45:30,828 :: INFO :: captcha.py :: 21 :: Tratamento do OCR realizado
+2025-11-26 09:52:11,328 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 09:52:11,411 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 09:52:11,411 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 09:52:14,060 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 09:52:14,547 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 09:52:15,018 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 09:52:21,408 :: INFO :: captcha.py :: 21 :: Tratamento do OCR realizado
+2025-11-26 09:54:39,475 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 09:54:39,504 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 09:54:39,504 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 09:54:42,070 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 09:54:42,544 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 09:54:43,003 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 09:54:49,413 :: INFO :: captcha.py :: 21 :: Tratamento do OCR realizado
+2025-11-26 09:58:55,614 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 09:58:55,700 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 09:58:55,700 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 09:58:58,340 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 09:58:58,824 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 09:58:59,288 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 10:13:20,380 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 10:13:20,468 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 10:13:20,468 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 10:13:23,209 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 10:13:23,775 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 10:13:24,249 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 10:13:32,201 :: INFO :: captcha.py :: 21 :: Tratamento do OCR realizado
+2025-11-26 10:13:32,201 :: INFO :: automacao_web.py :: 47 :: Captcha OCR: ""
+2025-11-26 10:13:32,201 :: ERROR :: automacao_web.py :: 52 :: Captcha vazio
+2025-11-26 10:16:48,587 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 10:16:48,690 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 10:16:48,690 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 10:16:51,439 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 10:16:51,914 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 10:16:52,390 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 10:16:56,811 :: INFO :: captcha.py :: 28 :: Tratamento do OCR realizado
+2025-11-26 10:16:56,811 :: INFO :: automacao_web.py :: 47 :: Captcha OCR: ""
+2025-11-26 10:16:56,811 :: ERROR :: automacao_web.py :: 52 :: Captcha vazio
+2025-11-26 10:45:27,162 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 10:45:27,615 :: INFO :: automacao_web.py :: 33 :: Site On
+2025-11-26 10:45:27,615 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 10:45:30,162 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 10:45:30,848 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 10:45:31,324 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 10:45:36,822 :: INFO :: captcha.py :: 22 :: Captcha tratado e salvo com sucesso.
+2025-11-26 10:45:37,053 :: INFO :: automacao_web.py :: 54 :: Captcha OCR: "2"
+2025-11-26 10:45:37,062 :: ERROR :: automacao_web.py :: 69 :: Erro no cadastro_web: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="captcha"]"}
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x8f4103
+	0x8f4144
+	0x6fe71d
+	0x74a03d
+	0x74a41b
+	0x7917f2
+	0x76c954
+	0x78ee17
+	0x76c706
+	0x73da30
+	0x73ed54
+	0xb657b4
+	0xb6098a
+	0x91c392
+	0x90c4c8
+	0x91324d
+	0x8fc478
+	0x8fc63c
+	0x8e67ca
+	0x74ed5d49
+	0x770ed6db
+	0x770ed661
+
+2025-11-26 11:02:34,592 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 11:02:34,692 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 11:02:34,693 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 11:02:37,450 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:02:37,937 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:02:38,416 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 11:02:44,691 :: INFO :: captcha.py :: 22 :: Captcha tratado e salvo com sucesso.
+2025-11-26 11:02:44,979 :: INFO :: automacao_web.py :: 55 :: Captcha OCR: ""
+2025-11-26 11:02:44,979 :: ERROR :: automacao_web.py :: 58 :: Captcha vazio ï¿½ tentando novamente
+2025-11-26 11:02:45,042 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 11:02:45,042 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 11:02:47,586 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:02:48,103 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:02:48,589 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 11:02:53,774 :: INFO :: captcha.py :: 22 :: Captcha tratado e salvo com sucesso.
+2025-11-26 11:02:53,969 :: INFO :: automacao_web.py :: 55 :: Captcha OCR: ""
+2025-11-26 11:02:53,969 :: ERROR :: automacao_web.py :: 58 :: Captcha vazio ï¿½ tentando novamente
+2025-11-26 11:02:54,023 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 11:02:54,024 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 11:02:56,978 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:02:57,477 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:02:57,980 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 11:03:03,167 :: INFO :: captcha.py :: 22 :: Captcha tratado e salvo com sucesso.
+2025-11-26 11:03:03,330 :: INFO :: automacao_web.py :: 55 :: Captcha OCR: ""
+2025-11-26 11:03:03,331 :: ERROR :: automacao_web.py :: 58 :: Captcha vazio ï¿½ tentando novamente
+2025-11-26 11:03:03,408 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 11:03:03,408 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 11:18:08,136 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 11:18:08,178 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 11:18:08,178 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 11:18:10,775 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:18:11,257 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:18:11,730 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 11:18:16,021 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 11:18:16,164 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: "c6r8p"
+2025-11-26 11:18:19,2025-11-26 11:13:02,414 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 11:13:02,500 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 11:13:02,500 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 11:13:05,070 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:13:05,623 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:13:06,099 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 11:13:10,488 :: INFO :: captcha.py :: 22 :: Captcha tratado e salvo com sucesso.
+2025-11-26 11:13:10,632 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: ""
+2025-11-26 11:13:10,632 :: ERROR :: automacao_web.py :: 61 :: Captcha vazio - encerrando tentativa
+719 :: INFO :: automacao_web.py :: 99 :: Login realizado
+2025-11-26 11:18:19,765 :: ERROR :: automacao_web.py :: 149 :: Erro no cadastro GED: Message: element not interactable: element has zero size
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x8f4103
+	0x8f4144
+	0x6fe71d
+	0x74b59f
+	0x73fd65
+	0x76c90c
+	0x73f7c4
+	0x76cac4
+	0x78ee17
+	0x76c706
+	0x73da30
+	0x73ed54
+	0xb657b4
+	0xb6098a
+	0x91c392
+	0x90c4c8
+	0x91324d
+	0x8fc478
+	0x8fc63c
+	0x8e67ca
+	0x74ed5d49
+	0x770ed6db
+	0x770ed661
+
+2025-11-26 11:25:53,727 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 11:25:53,800 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 11:25:53,800 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 11:25:56,398 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:25:56,899 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:25:57,377 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 11:26:01,633 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 11:26:01,843 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: "lehr22"
+2025-11-26 11:26:04,008 :: ERROR :: automacao_web.py :: 93 :: Captcha invï¿½lido
+2025-11-26 11:26:10,517 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 11:26:10,539 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 11:26:10,539 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 11:26:13,083 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:26:13,559 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:26:14,027 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 11:26:18,250 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 11:26:18,396 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: "Fypeo"
+2025-11-26 11:26:20,535 :: ERROR :: automacao_web.py :: 93 :: Captcha invï¿½lido
+2025-11-26 11:27:52,445 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 11:27:52,480 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 11:27:52,480 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 11:27:55,001 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:27:55,475 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:27:55,950 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 11:28:00,297 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 11:28:00,455 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: "a7hx5"
+2025-11-26 11:28:03,525 :: INFO :: automacao_web.py :: 99 :: Login realizado
+2025-11-26 11:28:35,814 :: ERROR :: automacao_web.py :: 149 :: Erro no cadastro GED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x8f4103
+	0x8f4144
+	0x6fe71d
+	0x74a03d
+	0x74a41b
+	0x7917f2
+	0x76c954
+	0x78ee17
+	0x76c706
+	0x73da30
+	0x73ed54
+	0xb657b4
+	0xb6098a
+	0x91c392
+	0x90c4c8
+	0x91324d
+	0x8fc478
+	0x8fc63c
+	0x8e67ca
+	0x74ed5d49
+	0x770ed6db
+	0x770ed661
+
+2025-11-26 11:28:35,915 :: ERROR :: automacao_web.py :: 103 :: Erro no login: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x8f4103
+	0x8f4144
+	0x6fe71d
+	0x6ec343
+	0x6ed3c7
+	0x6ff1c3
+	0x6dbe95
+	0x77c228
+	0x77b8db
+	0x76c8d3
+	0x73da30
+	0x73ed54
+	0xb657b4
+	0xb6098a
+	0x91c392
+	0x90c4c8
+	0x91324d
+	0x8fc478
+	0x8fc63c
+	0x8e67ca
+	0x74ed5d49
+	0x770ed6db
+	0x770ed661
+
+2025-11-26 11:28:36,023 :: ERROR :: automacao_web.py :: 69 :: Erro no cadastro_web: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x8f4103
+	0x8f4144
+	0x6fe56b
+	0x73ce58
+	0x76c7c6
+	0x768030
+	0x767563
+	0x6ce4dd
+	0x6cea6e
+	0x6cef3d
+	0xb657b4
+	0xb6098a
+	0x91c392
+	0x90c4c8
+	0x91324d
+	0x6ce193
+	0x6cd848
+	0xcbb0cf
+	0x74ed5d49
+	0x770ed6db
+	0x770ed661
+
+2025-11-26 11:37:28,140 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 11:37:28,410 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 11:37:28,411 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 11:37:30,986 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:37:31,670 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:37:32,147 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 11:37:36,408 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 11:37:36,551 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: "lAdohw"
+2025-11-26 11:37:38,965 :: ERROR :: automacao_web.py :: 93 :: Captcha invï¿½lido
+2025-11-26 11:37:41,615 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 11:37:41,647 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 11:37:41,654 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 11:37:44,208 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:37:44,697 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:37:45,178 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 11:37:49,322 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 11:37:49,472 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: "lconah"
+2025-11-26 11:37:51,604 :: ERROR :: automacao_web.py :: 93 :: Captcha invï¿½lido
+2025-11-26 11:38:57,720 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 11:38:57,751 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 11:38:57,751 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 11:39:00,383 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:39:00,874 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:39:01,351 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 11:39:05,568 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 11:39:05,718 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: "k5ce3"
+2025-11-26 11:39:07,871 :: INFO :: automacao_web.py :: 99 :: Login realizado
+2025-11-26 11:39:38,256 :: ERROR :: automacao_web.py :: 148 :: Erro no cadastro GED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x8f4103
+	0x8f4144
+	0x6fe71d
+	0x74a03d
+	0x74a41b
+	0x7917f2
+	0x76c954
+	0x78ee17
+	0x76c706
+	0x73da30
+	0x73ed54
+	0xb657b4
+	0xb6098a
+	0x91c392
+	0x90c4c8
+	0x91324d
+	0x8fc478
+	0x8fc63c
+	0x8e67ca
+	0x74ed5d49
+	0x770ed6db
+	0x770ed661
+
+2025-11-26 11:42:55,790 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 11:42:55,842 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 11:42:55,842 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 11:42:59,233 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:43:00,889 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:43:01,397 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 11:43:07,111 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 11:43:07,426 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: "lcdrh6"
+2025-11-26 11:43:09,686 :: ERROR :: automacao_web.py :: 93 :: Captcha invï¿½lido
+2025-11-26 11:43:35,348 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 11:43:35,375 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 11:43:35,375 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 11:43:39,108 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:43:39,678 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 11:43:40,207 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 11:43:44,944 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 11:43:45,115 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: "3bp8x"
+2025-11-26 11:43:47,253 :: ERROR :: automacao_web.py :: 93 :: Captcha invï¿½lido
+2025-11-26 12:00:43,031 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 12:00:43,070 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 12:00:43,070 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 12:00:45,898 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 12:00:46,462 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 12:00:46,947 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 12:00:53,049 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 12:00:53,239 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: "ckf62"
+2025-11-26 12:00:56,235 :: INFO :: automacao_web.py :: 99 :: Login realizado
+2025-11-26 12:00:57,592 :: ERROR :: automacao_web.py :: 149 :: Erro no cadastro GED: Message: element not interactable
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x914103
+	0x914144
+	0x71e56b
+	0x764a52
+	0x76316f
+	0x78c90c
+	0x75f7c4
+	0x78cac4
+	0x7aee17
+	0x78c706
+	0x75da30
+	0x75ed54
+	0xb857b4
+	0xb8098a
+	0x93c392
+	0x92c4c8
+	0x93324d
+	0x91c478
+	0x91c63c
+	0x9067ca
+	0x74ed5d49
+	0x770ed6db
+	0x770ed661
+
+2025-11-26 12:04:04,909 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 12:04:04,947 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 12:04:04,947 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 12:04:07,524 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 12:04:07,999 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 12:04:08,475 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 12:04:12,745 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 12:04:12,902 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: "3n6h5"
+2025-11-26 12:04:15,023 :: INFO :: automacao_web.py :: 99 :: Login realizado
+2025-11-26 12:04:26,290 :: ERROR :: automacao_web.py :: 151 :: Erro no cadastro GED: Message: element not interactable
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x914103
+	0x914144
+	0x71e56b
+	0x764a52
+	0x76316f
+	0x78c90c
+	0x75f7c4
+	0x78cac4
+	0x7aee17
+	0x78c706
+	0x75da30
+	0x75ed54
+	0xb857b4
+	0xb8098a
+	0x93c392
+	0x92c4c8
+	0x93324d
+	0x91c478
+	0x91c63c
+	0x9067ca
+	0x74ed5d49
+	0x770ed6db
+	0x770ed661
+
+2025-11-26 12:10:49,393 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 12:10:49,423 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 12:10:49,423 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 12:10:52,056 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 12:10:52,630 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 12:10:53,111 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 12:10:57,414 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 12:10:57,553 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: "ca767"
+2025-11-26 12:11:00,616 :: INFO :: automacao_web.py :: 99 :: Login realizado
+2025-11-26 12:11:12,429 :: ERROR :: automacao_web.py :: 151 :: Erro no cadastro GED: Message: element not interactable
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x914103
+	0x914144
+	0x71e56b
+	0x764a52
+	0x76316f
+	0x78c90c
+	0x75f7c4
+	0x78cac4
+	0x7aee17
+	0x78c706
+	0x75da30
+	0x75ed54
+	0xb857b4
+	0xb8098a
+	0x93c392
+	0x92c4c8
+	0x93324d
+	0x91c478
+	0x91c63c
+	0x9067ca
+	0x74ed5d49
+	0x770ed6db
+	0x770ed661
+
+2025-11-26 12:16:47,192 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 12:16:47,225 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 12:16:47,225 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 12:16:49,953 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 12:16:50,425 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 12:16:50,891 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 12:16:55,180 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 12:16:55,324 :: INFO :: automacao_web.py :: 59 :: Captcha OCR: "lgn4gb"
+2025-11-26 12:16:57,469 :: ERROR :: automacao_web.py :: 94 :: Captcha invï¿½lido
+2025-11-26 12:17:00,109 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 12:17:00,141 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 12:17:00,141 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 12:17:02,763 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 12:17:03,251 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 12:17:03,722 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 12:17:07,946 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 12:17:08,095 :: INFO :: automacao_web.py :: 59 :: Captcha OCR: "lmudkh"
+2025-11-26 12:17:10,234 :: ERROR :: automacao_web.py :: 94 :: Captcha invï¿½lido
+2025-11-26 12:17:14,258 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 12:17:14,292 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 12:17:14,292 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 12:17:16,923 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 12:17:17,407 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 12:17:17,897 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 12:17:22,192 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 12:17:22,336 :: INFO :: automacao_web.py :: 59 :: Captcha OCR: "8h782"
+2025-11-26 12:17:25,442 :: INFO :: automacao_web.py :: 100 :: Login realizado
+2025-11-26 12:17:37,289 :: ERROR :: automacao_web.py :: 159 :: Erro no cadastro GED: Message: element not interactable
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x914103
+	0x914144
+	0x71e56b
+	0x764a52
+	0x76316f
+	0x78c90c
+	0x75f7c4
+	0x78cac4
+	0x7aee17
+	0x78c706
+	0x75da30
+	0x75ed54
+	0xb857b4
+	0xb8098a
+	0x93c392
+	0x92c4c8
+	0x93324d
+	0x91c478
+	0x91c63c
+	0x9067ca
+	0x74ed5d49
+	0x770ed6db
+	0x770ed661
+
+2025-11-26 12:20:13,151 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 12:20:13,191 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 12:20:13,191 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 12:20:15,764 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 12:20:16,258 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 12:20:16,771 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 12:20:21,120 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 12:20:21,274 :: INFO :: automacao_web.py :: 59 :: Captcha OCR: "Zor"
+2025-11-26 12:20:23,572 :: ERROR :: automacao_web.py :: 94 :: Captcha invï¿½lido
+2025-11-26 13:20:08,804 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 13:20:09,230 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 13:20:09,230 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 13:20:11,546 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 13:20:12,310 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 13:20:12,777 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 13:20:19,123 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 13:20:19,462 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: "Irkh2n"
+2025-11-26 13:20:21,843 :: ERROR :: automacao_web.py :: 92 :: Captcha invï¿½lido
+2025-11-26 13:20:24,621 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 13:20:24,648 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 13:20:24,648 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 13:20:25,962 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 13:20:26,434 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 13:20:26,932 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 13:20:31,146 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 13:20:31,306 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: "lfwem3"
+2025-11-26 13:20:33,624 :: ERROR :: automacao_web.py :: 92 :: Captcha invï¿½lido
+2025-11-26 13:20:37,678 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 13:20:37,706 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 13:20:37,706 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 13:20:39,015 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 13:20:39,492 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 13:20:39,956 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 13:20:44,201 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 13:20:44,360 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: "Befhd"
+2025-11-26 13:20:46,502 :: ERROR :: automacao_web.py :: 92 :: Captcha invï¿½lido
+2025-11-26 13:21:16,138 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 13:21:16,162 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 13:21:16,162 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 13:21:17,430 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 13:21:17,914 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 13:21:18,419 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 13:21:22,667 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 13:21:22,829 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: "74h23"
+2025-11-26 13:21:24,963 :: INFO :: automacao_web.py :: 99 :: Login realizado
+2025-11-26 13:21:29,903 :: ERROR :: automacao_web.py :: 184 :: Erro no cadastro GED: Message: element not interactable
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x614103
+	0x614144
+	0x41e56b
+	0x464a52
+	0x46316f
+	0x48c90c
+	0x45f7c4
+	0x48cac4
+	0x4aee17
+	0x48c706
+	0x45da30
+	0x45ed54
+	0x8857b4
+	0x88098a
+	0x63c392
+	0x62c4c8
+	0x63324d
+	0x61c478
+	0x61c63c
+	0x6067ca
+	0x74ed5d49
+	0x770ed6db
+	0x770ed661
+
+2025-11-26 13:30:21,114 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 13:30:21,146 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 13:30:21,146 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 13:30:22,495 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 13:30:22,965 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 13:30:23,441 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 13:30:27,708 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 13:30:27,871 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: "gp6de"
+2025-11-26 13:30:30,009 :: ERROR :: automacao_web.py :: 92 :: Captcha invï¿½lido
+2025-11-26 13:30:32,659 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 13:30:32,693 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 13:30:32,693 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 13:30:33,939 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 13:30:34,421 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 13:30:34,910 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 13:30:39,079 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 13:30:39,218 :: INFO :: automacao_web.py :: 58 :: Captcha OCR: "kx6g2"
+2025-11-26 13:30:42,146 :: INFO :: automacao_web.py :: 99 :: Login realizado
+2025-11-26 13:30:47,254 :: ERROR :: automacao_web.py :: 187 :: Erro no cadastro GED: Message: element not interactable
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x614103
+	0x614144
+	0x41e56b
+	0x464a52
+	0x46316f
+	0x48c90c
+	0x45f7c4
+	0x48cac4
+	0x4aee17
+	0x48c706
+	0x45da30
+	0x45ed54
+	0x8857b4
+	0x88098a
+	0x63c392
+	0x62c4c8
+	0x63324d
+	0x61c478
+	0x61c63c
+	0x6067ca
+	0x74ed5d49
+	0x770ed6db
+	0x770ed661
+
+2025-11-26 13:39:49,985 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 13:39:50,012 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 13:39:50,012 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 13:39:51,340 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 13:39:51,936 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 13:39:52,380 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 13:39:56,580 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 13:39:56,733 :: INFO :: automacao_web.py :: 59 :: Captcha OCR: "pdrho"
+2025-11-26 13:39:58,885 :: ERROR :: automacao_web.py :: 93 :: Captcha invï¿½lido
+2025-11-26 13:40:37,462 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 13:40:37,486 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 13:40:37,486 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 13:40:38,767 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 13:40:39,259 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 13:40:39,734 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 13:40:43,883 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 13:40:44,028 :: INFO :: automacao_web.py :: 59 :: Captcha OCR: "b265h"
+2025-11-26 13:40:46,162 :: INFO :: automacao_web.py :: 100 :: Login realizado
+2025-11-26 13:40:47,698 :: ERROR :: automacao_web.py :: 176 :: Erro no cadastro GED: WebDriverWait.__init__() missing 1 required positional argument: 'timeout'
+2025-11-26 13:46:19,657 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 14:15:24,852 :: INFO :: banco_dados.py :: 13 :: Conexï¿½o com o banco de dados realizada
+2025-11-26 14:15:25,279 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 14:15:25,279 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 14:15:26,559 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 14:15:27,318 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 14:15:27,807 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 14:15:33,260 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 14:15:33,488 :: INFO :: automacao_web.py :: 59 :: Captcha OCR: "f2ydr"
+2025-11-26 14:15:36,650 :: INFO :: automacao_web.py :: 100 :: Login realizado
+2025-11-26 14:15:49,938 :: ERROR :: automacao_web.py :: 174 :: Erro no cadastro GED: Message: element not interactable
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x614103
+	0x614144
+	0x41e56b
+	0x464a52
+	0x46316f
+	0x48c90c
+	0x45f7c4
+	0x48cac4
+	0x4aee17
+	0x48c706
+	0x45da30
+	0x45ed54
+	0x8857b4
+	0x88098a
+	0x63c392
+	0x62c4c8
+	0x63324d
+	0x61c478
+	0x61c63c
+	0x6067ca
+	0x74ed5d49
+	0x770ed6db
+	0x770ed662025-11-26 13:46:19,683 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 13:46:19,683 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 13:46:21,001 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 13:46:21,442 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 13:46:21,900 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 13:46:26,295 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 13:46:26,435 :: INFO :: automacao_web.py :: 59 :: Captcha OCR: "p7y5h"
+2025-11-26 13:46:29,603 :: INFO :: automacao_web.py :: 100 :: Login realizado
+2025-11-26 13:46:42,431 :: ERROR :: automacao_web.py :: 175 :: Erro no cadastro GED: Message: element not interactable
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x614103
+	0x614144
+	0x41e56b
+	0x464a52
+	0x46316f
+	0x48c90c
+	0x45f7c4
+	0x48cac4
+	0x4aee17
+	0x48c706
+	0x45da30
+	0x45ed54
+	0x8857b4
+	0x88098a
+	0x63c392
+	0x62c4c8
+	0x63324d
+	0x61c478
+	0x61c63c
+	0x6067ca
+	0x74ed5d49
+	0x770ed6db
+	0x770ed661
+
+1
+
+2025-11-26 14:26:17,165 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-26 14:26:17,250 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 14:26:17,250 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 14:26:18,572 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 14:26:19,017 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 14:26:19,449 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 14:26:24,266 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 14:26:24,435 :: INFO :: automacao_web.py :: 59 :: Captcha OCR: "c4w85"
+2025-11-26 14:26:27,547 :: INFO :: automacao_web.py :: 100 :: Login realizado
+2025-11-26 14:26:40,129 :: ERROR :: automacao_web.py :: 174 :: Erro no cadastro GED: Message: element not interactable
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x614103
+	0x614144
+	0x41e56b
+	0x464a52
+	0x46316f
+	0x48c90c
+	0x45f7c4
+	0x48cac4
+	0x4aee17
+	0x48c706
+	0x45da30
+	0x45ed54
+	0x8857b4
+	0x88098a
+	0x63c392
+	0x62c4c8
+	0x63324d
+	0x61c478
+	0x61c63c
+	0x6067ca
+	0x74ed5d49
+	0x770ed6db
+	0x770ed661
+
+2025-11-26 14:29:17,360 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-26 14:29:17,377 :: INFO :: automacao_web.py :: 32 :: Site On
+2025-11-26 14:29:17,377 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 14:29:18,709 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 14:29:19,160 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 14:29:19,640 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 14:29:23,913 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 14:29:24,064 :: INFO :: automacao_web.py :: 59 :: Captcha OCR: "cr6g7"
+2025-11-26 14:29:26,200 :: INFO :: automacao_web.py :: 100 :: Login realizado
+2025-11-26 14:29:30,219 :: ERROR :: automacao_web.py :: 186 :: Erro no cadastro GED: Message: element not interactable
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x614103
+	0x614144
+	0x41e56b
+	0x464a52
+	0x46316f
+	0x48c90c
+	0x45f7c4
+	0x48cac4
+	0x4aee17
+	0x48c706
+	0x45da30
+	0x45ed54
+	0x8857b4
+	0x88098a
+	0x63c392
+	0x62c4c8
+	0x63324d
+	0x61c478
+	0x61c63c
+	0x6067ca
+	0x74ed5d49
+	0x770ed6db
+	0x770ed661
+
+2025-11-26 14:44:36,937 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-26 14:44:36,973 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 14:44:36,973 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 14:44:38,576 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 14:44:39,068 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 14:44:39,549 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 14:44:46,769 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 14:44:47,067 :: INFO :: automacao_web.py :: 55 :: Captcha OCR: "rbgye"
+2025-11-26 14:44:49,569 :: INFO :: automacao_web.py :: 94 :: Login realizado
+2025-11-26 14:44:53,786 :: ERROR :: automacao_web.py :: 167 :: Erro no cadastro GED: Message: element not interactable
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x614103
+	0x614144
+	0x41e56b
+	0x464a52
+	0x46316f
+	0x48c90c
+	0x45f7c4
+	0x48cac4
+	0x4aee17
+	0x48c706
+	0x45da30
+	0x45ed54
+	0x8857b4
+	0x88098a
+	0x63c392
+	0x62c4c8
+	0x63324d
+	0x61c478
+	0x61c63c
+	0x6067ca
+	0x74ed5d49
+	0x770ed6db
+	0x770ed661
+
+2025-11-26 14:46:41,344 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-26 14:46:41,364 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 14:46:41,364 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 14:46:42,646 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 14:46:43,131 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 14:46:43,606 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 14:46:47,875 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 14:46:48,025 :: INFO :: automacao_web.py :: 55 :: Captcha OCR: "gbwpk"
+2025-11-26 14:46:50,187 :: INFO :: automacao_web.py :: 83 :: Login realizado
+2025-11-26 14:46:53,032 :: INFO :: automacao_web.py :: 127 :: Fornecedor selecionado
+2025-11-26 14:46:54,236 :: INFO :: automacao_web.py :: 170 :: Processo cadastrado com sucesso
+2025-11-26 14:46:54,236 :: ERROR :: automacao_web.py :: 174 :: Erro ao preencher dados: 'CadastroDeDados' object has no attribute 'upload_file'
+2025-11-26 14:51:57,885 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-26 14:51:57,925 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 14:51:57,925 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 14:51:59,459 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 14:51:59,940 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 14:52:00,417 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 14:52:04,686 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 14:52:04,830 :: INFO :: automacao_web.py :: 55 :: Captcha OCR: "lawr82"
+2025-11-26 14:52:06,984 :: INFO :: automacao_web.py :: 83 :: Login realizado
+2025-11-26 14:52:17,777 :: ERROR :: automacao_web.py :: 137 :: Erro no cadastro GED: 'NoneType' object has no attribute 'is_displayed'
+2025-11-26 14:52:20,409 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-26 14:52:20,434 :: INFO :: automacao_web.py :: 31 :: Site On
+2025-11-26 14:52:20,434 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-26 14:52:21,683 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 14:52:22,144 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-26 14:52:22,615 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-26 14:52:26,737 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-26 14:52:26,879 :: INFO :: automacao_web.py :: 55 :: Captcha OCR: "ycbxf"
+2025-11-26 14:52:30,465 :: INFO :: automacao_web.py :: 83 :: Login realizado
+2025-11-26 14:52:41,826 :: INFO :: automacao_web.py :: 133 :: Fornecedor selecionado
+2025-11-26 14:52:43,055 :: INFO :: automacao_web.py :: 176 :: Processo cadastrado com sucesso
+2025-11-27 09:36:09,720 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 09:36:10,051 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 09:36:10,052 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 09:36:11,433 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 09:36:12,227 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 09:36:12,699 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 09:36:13,856 :: INFO :: logger.py :: 11 :: WebDriver version 142.0.7444.175 selected
+2025-11-27 09:36:13,861 :: INFO :: logger.py :: 11 :: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+2025-11-27 09:36:13,861 :: INFO :: logger.py :: 11 :: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+2025-11-27 09:36:14,712 :: INFO :: logger.py :: 11 :: Driver downloading response is 200
+2025-11-27 09:36:15,805 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 09:36:16,397 :: INFO :: logger.py :: 11 :: Driver has been saved in cache [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175]
+2025-11-27 09:36:23,558 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 09:36:24,142 :: INFO :: automacao_web.py :: 53 :: Captcha OCR: "lanBax"
+2025-11-27 09:36:26,304 :: INFO :: automacao_web.py :: 81 :: Login realizado
+2025-11-27 09:36:48,602 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 09:36:48,638 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 09:36:48,638 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 09:36:50,073 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 09:36:50,547 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 09:36:51,016 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 09:36:55,311 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 09:36:55,467 :: INFO :: automacao_web.py :: 53 :: Captcha OCR: "b5n3p"
+2025-11-27 09:36:57,612 :: INFO :: automacao_web.py :: 81 :: Login realizado
+2025-11-27 09:37:09,762 :: INFO :: automacao_web.py :: 131 :: Fornecedor selecionado
+2025-11-27 09:37:10,965 :: INFO :: automacao_web.py :: 174 :: Processo cadastrado com sucesso
+2025-11-27 09:37:25,008 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 09:37:25,037 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 09:37:25,037 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 09:37:26,373 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 09:37:26,852 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 09:37:27,337 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 09:37:31,648 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 09:37:31,801 :: INFO :: automacao_web.py :: 53 :: Captcha OCR: "wrxe"
+2025-11-27 09:37:33,951 :: INFO :: automacao_web.py :: 81 :: Login realizado
+2025-11-27 09:37:37,067 :: ERROR :: automacao_web.py :: 135 :: Erro no cadastro GED: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x694103
+	0x694144
+	0x49e71d
+	0x48d910
+	0x4ac714
+	0x513475
+	0x52e749
+	0x50c706
+	0x4dda30
+	0x4ded54
+	0x9057b4
+	0x90098a
+	0x6bc392
+	0x6ac4c8
+	0x6b324d
+	0x69c478
+	0x69c63c
+	0x6867ca
+	0x75915d49
+	0x7751d6db
+	0x7751d661
+
+2025-11-27 09:37:39,687 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 09:37:39,718 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 09:37:39,719 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 09:37:41,049 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 09:37:41,528 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 09:37:41,997 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 09:37:45,411 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 09:37:45,552 :: INFO :: automacao_web.py :: 53 :: Captcha OCR: "yndf2"
+2025-11-27 09:37:48,594 :: INFO :: automacao_web.py :: 81 :: Login realizado
+2025-11-27 09:38:00,354 :: INFO :: automacao_web.py :: 131 :: Fornecedor selecionado
+2025-11-27 09:38:01,546 :: INFO :: automacao_web.py :: 174 :: Processo cadastrado com sucesso
+2025-11-27 09:49:59,156 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 09:49:59,185 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 09:49:59,190 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 09:50:00,518 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 09:50:01,015 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 09:50:01,503 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 09:50:07,508 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 09:50:07,779 :: INFO :: automacao_web.py :: 53 :: Captcha OCR: "g7hS"
+2025-11-27 09:50:09,998 :: INFO :: automacao_web.py :: 81 :: Login realizado
+2025-11-27 09:50:50,276 :: ERROR :: automacao_web.py :: 167 :: Erro no cadastro GED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb44103
+	0xb44144
+	0x94e71d
+	0x99a03d
+	0x99a41b
+	0x9e17f2
+	0x9bc954
+	0x9dee17
+	0x9bc706
+	0x98da30
+	0x98ed54
+	0xdb57b4
+	0xdb098a
+	0xb6c392
+	0xb5c4c8
+	0xb6324d
+	0xb4c478
+	0xb4c63c
+	0xb367ca
+	0x75915d49
+	0x7751d6db
+	0x7751d661
+
+2025-11-27 09:50:54,004 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 09:50:54,030 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 09:50:54,030 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 09:50:55,390 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 09:50:55,867 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 09:50:56,332 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 09:51:00,643 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 09:51:00,784 :: INFO :: automacao_web.py :: 53 :: Captcha OCR: "ly3abe"
+2025-11-27 09:51:02,973 :: INFO :: automacao_web.py :: 81 :: Login realizado
+2025-11-27 09:51:07,127 :: ERROR :: automacao_web.py :: 167 :: Erro no cadastro GED: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb44103
+	0xb44144
+	0x94e71d
+	0x93d910
+	0x95c714
+	0x9c3475
+	0x9de749
+	0x9bc706
+	0x98da30
+	0x98ed54
+	0xdb57b4
+	0xdb098a
+	0xb6c392
+	0xb5c4c8
+	0xb6324d
+	0xb4c478
+	0xb4c63c
+	0xb367ca
+	0x75915d49
+	0x7751d6db
+	0x7751d661
+
+2025-11-27 09:51:09,777 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 09:51:09,809 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 09:51:09,809 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 09:51:11,160 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 09:51:11,638 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 09:51:12,100 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 09:51:15,606 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 09:51:15,771 :: INFO :: automacao_web.py :: 53 :: Captcha OCR: "8m4ac"
+2025-11-27 09:51:18,566 :: INFO :: automacao_web.py :: 81 :: Login realizado
+2025-11-27 09:51:31,941 :: INFO :: automacao_web.py :: 163 :: Fornecedor selecionado
+2025-11-27 09:51:33,150 :: INFO :: automacao_web.py :: 206 :: Processo cadastrado com sucesso
+2025-11-27 09:53:32,088 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 09:53:32,116 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 09:53:32,116 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 09:53:33,419 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 09:53:33,889 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 09:53:34,370 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 09:53:38,644 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 09:53:38,797 :: INFO :: automacao_web.py :: 53 :: Captcha OCR: "b8pyf"
+2025-11-27 09:53:40,942 :: INFO :: automacao_web.py :: 81 :: Login realizado
+2025-11-27 09:53:57,090 :: INFO :: automacao_web.py :: 165 :: Fornecedor selecionado
+2025-11-27 09:54:00,873 :: INFO :: automacao_web.py :: 208 :: Processo cadastrado com sucesso
+2025-11-27 10:14:55,283 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 10:14:55,329 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 10:14:55,329 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 10:14:56,670 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 10:14:57,161 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 10:14:57,621 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 10:15:01,877 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 10:15:02,029 :: INFO :: automacao_web.py :: 54 :: Captcha OCR: "lbndcn"
+2025-11-27 10:15:04,188 :: INFO :: automacao_web.py :: 82 :: Login realizado
+2025-11-27 10:15:44,646 :: ERROR :: automacao_web.py :: 171 :: Erro no cadastro GED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb44103
+	0xb44144
+	0x94e71d
+	0x99a03d
+	0x99a41b
+	0x9e17f2
+	0x9bc954
+	0x9dee17
+	0x9bc706
+	0x98da30
+	0x98ed54
+	0xdb57b4
+	0xdb098a
+	0xb6c392
+	0xb5c4c8
+	0xb6324d
+	0xb4c478
+	0xb4c63c
+	0xb367ca
+	0x75915d49
+	0x7751d6db
+	0x7751d661
+
+2025-11-27 10:15:47,345 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 10:15:47,384 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 10:15:47,384 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 10:15:48,679 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 10:15:49,155 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 10:15:49,628 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 10:15:53,799 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 10:15:53,942 :: INFO :: automacao_web.py :: 54 :: Captcha OCR: "g4r4p"
+2025-11-27 10:15:56,092 :: INFO :: automacao_web.py :: 82 :: Login realizado
+2025-11-27 10:16:47,595 :: ERROR :: automacao_web.py :: 171 :: Erro no cadastro GED: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb44103
+	0xb44144
+	0x94e71d
+	0x93d910
+	0x95c714
+	0x9c3475
+	0x9de749
+	0x9bc706
+	0x98da30
+	0x98ed54
+	0xdb57b4
+	0xdb098a
+	0xb6c392
+	0xb5c4c8
+	0xb6324d
+	0xb4c478
+	0xb4c63c
+	0xb367ca
+	0x75915d49
+	0x7751d6db
+	0x7751d661
+
+2025-11-27 10:19:29,624 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 10:19:29,658 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 10:19:29,658 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 10:19:31,110 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 10:19:31,653 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 10:19:32,149 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 10:19:36,373 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 10:19:36,518 :: INFO :: automacao_web.py :: 54 :: Captcha OCR: "bbm2e"
+2025-11-27 10:19:39,149 :: INFO :: automacao_web.py :: 82 :: Login realizado
+2025-11-27 10:19:56,889 :: INFO :: automacao_web.py :: 167 :: Fornecedor selecionado
+2025-11-27 10:20:00,038 :: INFO :: automacao_web.py :: 210 :: Processo cadastrado com sucesso
+2025-11-27 10:22:16,735 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 10:22:16,996 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 10:22:16,996 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 10:22:18,314 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 10:22:18,996 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 10:22:19,473 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 10:22:23,743 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 10:22:23,881 :: INFO :: automacao_web.py :: 54 :: Captcha OCR: "x8nh7"
+2025-11-27 10:22:27,385 :: INFO :: automacao_web.py :: 82 :: Login realizado
+2025-11-27 10:22:44,949 :: INFO :: automacao_web.py :: 167 :: Fornecedor selecionado
+2025-11-27 10:47:30,817 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 10:47:30,848 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 10:47:30,848 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 10:47:32,329 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 10:47:32,801 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 10:47:33,287 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 10:47:37,902 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 10:47:38,094 :: INFO :: automacao_web.py :: 54 :: Captcha OCR: "inf53m"
+2025-11-27 10:47:40,249 :: INFO :: automacao_web.py :: 82 :: Login realizado
+2025-11-27 10:47:42,802 :: ERROR :: automacao_web.py :: 170 :: Erro no cadastro GED: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb44103
+	0xb44144
+	0x94e71d
+	0x93d910
+	0x95c714
+	0x9c3475
+	0x9de749
+	0x9bc706
+	0x98da30
+	0x98ed54
+	0xdb57b4
+	0xdb098a
+	0xb6c392
+	0xb5c4c8
+	0xb6324d
+	0xb4c478
+	0xb4c63c
+	0xb367ca
+	0x75915d49
+	0x7751d6db
+	0x7751d661
+
+2025-11-27 10:47:47,708 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 10:47:47,739 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 10:47:47,739 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 10:47:49,134 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 10:47:49,618 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 10:47:50,102 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 10:47:54,306 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 10:47:54,536 :: INFO :: automacao_web.py :: 54 :: Captcha OCR: "nmycg"
+2025-11-27 10:47:56,732 :: INFO :: automacao_web.py :: 82 :: Login realizado
+2025-11-27 10:48:12,837 :: INFO :: automacao_web.py :: 166 :: Fornecedor selecionado
+2025-11-27 10:48:53,265 :: ERROR :: automacao_web.py :: 215 :: Erro ao preencher dados: Message: 
+
+2025-11-27 10:49:48,440 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 10:49:48,467 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 10:49:48,467 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 10:49:49,829 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 10:49:50,299 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 10:49:50,785 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 10:49:55,123 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 10:49:55,272 :: INFO :: automacao_web.py :: 54 :: Captcha OCR: "4byn"
+2025-11-27 10:49:57,437 :: INFO :: automacao_web.py :: 82 :: Login realizado
+2025-11-27 10:50:36,883 :: ERROR :: automacao_web.py :: 171 :: Erro no cadastro GED: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb44103
+	0xb44144
+	0x94e71d
+	0x93d910
+	0x95c714
+	0x9c3475
+	0x9de749
+	0x9bc706
+	0x98da30
+	0x98ed54
+	0xdb57b4
+	0xdb098a
+	0xb6c392
+	0xb5c4c8
+	0xb6324d
+	0xb4c478
+	0xb4c63c
+	0xb367ca
+	0x75915d49
+	0x7751d6db
+	0x7751d661
+
+2025-11-27 10:51:46,113 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 10:51:46,146 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 10:51:46,147 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 10:51:47,495 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 10:51:47,974 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 10:51:48,454 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 10:51:52,735 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 10:51:52,870 :: INFO :: automacao_web.py :: 54 :: Captcha OCR: "x7ghm"
+2025-11-27 10:51:55,035 :: INFO :: automacao_web.py :: 82 :: Login realizado
+2025-11-27 10:52:11,440 :: INFO :: automacao_web.py :: 167 :: Fornecedor selecionado
+2025-11-27 10:52:24,269 :: INFO :: automacao_web.py :: 211 :: Processo cadastrado com sucesso
+2025-11-27 11:05:52,673 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 11:05:52,712 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 11:05:52,712 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 11:05:54,185 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 11:05:54,728 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 11:05:55,199 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 11:06:01,323 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 11:06:01,593 :: INFO :: automacao_web.py :: 54 :: Captcha OCR: "42x2a"
+2025-11-27 11:06:04,557 :: INFO :: automacao_web.py :: 82 :: Login realizado
+2025-11-27 11:06:21,417 :: INFO :: automacao_web.py :: 167 :: Fornecedor selecionado
+2025-11-27 11:06:21,417 :: ERROR :: automacao_web.py :: 171 :: Erro no cadastro GED: 'CadastroDeDados' object has no attribute 'dados_forn'
+2025-11-27 11:13:03,184 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 11:13:03,447 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 11:13:04,787 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 11:13:05,486 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 11:13:05,963 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 11:13:10,620 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 11:33:28,247 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 11:33:28,283 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 11:33:28,283 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 11:33:29,819 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 11:33:30,395 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 11:33:30,874 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 11:33:36,582 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 11:33:36,943 :: INFO :: automacao_web.py :: 54 :: Captcha OCR: "axxk4"
+2025-11-27 11:33:39,132 :: INFO :: automacao_web.py :: 82 :: Login realizado
+2025-11-27 11:34:09,254 :: ERROR :: automacao_web.py :: 171 :: Erro no cadastro GED: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe44103
+	0xe44144
+	0xc4e71d
+	0xc3d910
+	0xc5c714
+	0xcc3475
+	0xcde749
+	0xcbc706
+	0xc8da30
+	0xc8ed54
+	0x10b57b4
+	0x10b098a
+	0xe6c392
+	0xe5c4c8
+	0xe6324d
+	0xe4c478
+	0xe4c63c
+	0xe367ca
+	0x75915d49
+	0x7751d6db
+	0x7751d661
+
+2025-11-27 11:34:11,931 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 11:34:11,968 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 11:34:11,968 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 11:34:13,348 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 11:34:13,831 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 11:34:14,318 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 11:34:18,602 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 11:34:18,744 :: INFO :: automacao_web.py :: 54 :: Captcha OCR: "Inb5ne"
+2025-11-27 11:34:20,923 :: INFO :: automacao_web.py :: 82 :: Login realizado
+2025-11-27 11:34:25,533 :: ERROR :: automacao_web.py :: 171 :: Erro no cadastro GED: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe44103
+	0xe44144
+	0xc4e71d
+	0xc3d910
+	0xc5c714
+	0xcc3475
+	0xcde749
+	0xcbc706
+	0xc8da30
+	0xc8ed54
+	0x10b57b4
+	0x10b098a
+	0xe6c392
+	0xe5c4c8
+	0xe6324d
+	0xe4c478
+	0xe4c63c
+	0xe367ca
+	0x75915d49
+	0x7751d6db
+	0x7751d661
+
+2025-11-27 11:34:28,215 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 11:34:28,254 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 11:34:28,254 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 11:34:29,708 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 11:34:30,192 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 11:34:30,670 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 11:34:34,131 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 11:34:34,292 :: INFO :: automacao_web.py :: 54 :: Captcha OCR: "Ww36ny"
+2025-11-27 11:34:36,515 :: INFO :: automacao_web.py :: 82 :: Login realizado
+2025-11-27 11:34:53,317 :: ERROR :: automacao_web.py :: 171 :: Erro no cadastro GED: 'NoneType' object has no attribute 'is_displayed'
+2025-11-27 11:36:09,509 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 11:36:09,543 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 11:36:09,543 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 11:36:10,887 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 11:36:11,350 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 11:36:11,824 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 11:36:16,094 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 11:36:16,241 :: INFO :: automacao_web.py :: 54 :: Captcha OCR: "46enc"
+2025-11-27 11:36:19,268 :: INFO :: automacao_web.py :: 82 :: Login realizado
+2025-11-27 11:36:35,350 :: INFO :: automacao_web.py :: 167 :: Fornecedor selecionado
+2025-11-27 11:36:36,714 :: INFO :: automacao_web.py :: 252 :: \u2705 Dados bancários preenchidos com sucesso
+2025-11-27 11:36:38,689 :: INFO :: automacao_web.py :: 211 :: \u2705 Processo cadastrado com sucesso
+2025-11-27 11:49:43,010 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 11:49:43,058 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-11-27 11:49:43,058 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 11:49:44,919 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 11:49:45,522 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 11:49:46,117 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 11:49:52,264 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 11:49:52,596 :: INFO :: automacao_web.py :: 49 :: Captcha OCR: "72mm4"
+2025-11-27 11:49:55,963 :: INFO :: automacao_web.py :: 77 :: Login realizado
+2025-11-27 11:50:12,686 :: INFO :: automacao_web.py :: 151 :: Fornecedor selecionado
+2025-11-27 11:50:14,180 :: INFO :: automacao_web.py :: 227 :: Dados bancários preenchidos com sucesso
+2025-11-27 11:50:16,879 :: INFO :: automacao_web.py :: 186 :: Processo cadastrado com sucesso
+2025-11-27 12:06:06,606 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 12:06:06,887 :: INFO :: automacao_web.py :: 30 :: Site On
+2025-11-27 12:06:06,887 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 12:06:08,337 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 12:06:09,035 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 12:06:09,530 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 12:06:13,937 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 12:06:14,129 :: INFO :: automacao_web.py :: 50 :: Captcha OCR: "3k7Wwg"
+2025-11-27 12:06:16,714 :: INFO :: automacao_web.py :: 78 :: Login realizado
+2025-11-27 12:06:56,717 :: ERROR :: automacao_web.py :: 156 :: Erro no cadastro GED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb04103
+	0xb04144
+	0x90e71d
+	0x95a03d
+	0x95a41b
+	0x9a17f2
+	0x97c954
+	0x99ee17
+	0x97c706
+	0x94da30
+	0x94ed54
+	0xd757b4
+	0xd7098a
+	0xb2c392
+	0xb1c4c8
+	0xb2324d
+	0xb0c478
+	0xb0c63c
+	0xaf67ca
+	0x75915d49
+	0x7751d6db
+	0x7751d661
+
+2025-11-27 12:08:21,851 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 12:08:21,887 :: INFO :: automacao_web.py :: 30 :: Site On
+2025-11-27 12:08:21,887 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 12:08:23,314 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 12:08:23,798 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 12:08:24,267 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 12:08:28,570 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 12:08:28,727 :: INFO :: automacao_web.py :: 50 :: Captcha OCR: "mages"
+2025-11-27 12:08:30,895 :: INFO :: automacao_web.py :: 78 :: Login realizado
+2025-11-27 12:08:54,425 :: ERROR :: automacao_web.py :: 156 :: Erro no cadastro GED: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb04103
+	0xb04144
+	0x90e71d
+	0x8fd910
+	0x91c714
+	0x983475
+	0x99e749
+	0x97c706
+	0x94da30
+	0x94ed54
+	0xd757b4
+	0xd7098a
+	0xb2c392
+	0xb1c4c8
+	0xb2324d
+	0xb0c478
+	0xb0c63c
+	0xaf67ca
+	0x75915d49
+	0x7751d6db
+	0x7751d661
+
+2025-11-27 12:26:46,103 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-11-27 12:26:46,126 :: INFO :: automacao_web.py :: 30 :: Site On
+2025-11-27 12:26:46,126 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-11-27 12:26:47,564 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 12:26:48,110 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-11-27 12:26:48,602 :: INFO :: logger.py :: 11 :: Driver [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-27 12:26:53,436 :: INFO :: captcha.py :: 38 :: Captcha tratado e salvo com sucesso.
+2025-11-27 12:26:54,402 :: INFO :: automacao_web.py :: 50 :: Captcha OCR: "r8df4"
+2025-11-27 12:26:56,549 :: INFO :: automacao_web.py :: 78 :: Login realizado
+2025-11-27 12:27:13,629 :: INFO :: automacao_web.py :: 152 :: Fornecedor selecionado
+2025-11-27 12:27:15,021 :: INFO :: automacao_web.py :: 228 :: Dados bancários preenchidos com sucesso
+2025-11-27 12:27:17,316 :: INFO :: automacao_web.py :: 187 :: Processo cadastrado com sucesso
+2025-12-01 11:33:36,398 :: INFO :: banco_dados.py :: 13 :: Conexão com o banco de dados realizada
+2025-12-01 11:33:36,493 :: INFO :: automacao_web.py :: 29 :: Site On
+2025-12-01 11:33:36,493 :: INFO :: logger.py :: 11 :: ====== WebDriver manager ======
+2025-12-01 11:33:37,782 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-12-01 11:33:38,549 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-12-01 11:33:39,019 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-12-01 11:33:40,144 :: INFO :: logger.py :: 11 :: WebDriver version 142.0.7444.175 selected
+2025-12-01 11:33:40,144 :: INFO :: logger.py :: 11 :: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+2025-12-01 11:33:40,144 :: INFO :: logger.py :: 11 :: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+2025-12-01 11:33:40,971 :: INFO :: logger.py :: 11 :: Driver downloading response is 200
+2025-12-01 11:33:42,738 :: INFO :: logger.py :: 11 :: Get LATEST chromedriver version for google-chrome
+2025-12-01 11:33:43,304 :: INFO :: logger.py :: 11 :: Driver has been saved in cache [C:\Users\929699\.wdm\drivers\chromedriver\win64\142.0.7444.175]
+2025-12-01 11:33:56,462 :: INFO :: captcha.py :: 29 :: Captcha tratado e salvo com sucesso.
+2025-12-01 11:33:56,986 :: INFO :: automacao_web.py :: 49 :: Captcha OCR: "5m2ah"
+2025-12-01 11:33:59,154 :: INFO :: automacao_web.py :: 77 :: Login realizado
+2025-12-01 11:34:20,427 :: INFO :: automacao_web.py :: 155 :: Fornecedor selecionado
+2025-12-01 11:34:21,799 :: INFO :: automacao_web.py :: 231 :: Dados bancários preenchidos com sucesso
+2025-12-01 11:34:23,850 :: INFO :: automacao_web.py :: 190 :: Processo cadastrado com sucesso
